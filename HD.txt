@@ -1,0 +1,3 @@
+simulate_round: ván bài baccarat trong sexy, chọn ngẫu nhiên giữa "Player", "Banker", và "Tie".
+count_results: Đếm số lần thắng của "Player", "Banker", và "Tie" từ lịch sử.
+predict_next: Dự đoán kết quả ván tiếp theo dựa trên số lần thắng nhiều nhất trong lịch sử.
